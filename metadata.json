@@ -1,0 +1,6 @@
+{
+  "name": "Serene Reader Native",
+  "description": "A high-performance, distraction-free PDF reader built with C++20, Qt 6, and MuPDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
